@@ -1,0 +1,94 @@
+﻿@model Project_college_management.ViewModels.StudentEnrollmentModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div id="msg">
+
+        </div>
+        @using (Ajax.BeginForm("Create", "Enrollments", new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg", OnSuccess = "onSuccess" }, new { enctype = "multipart/form-data", id = "frm" }))
+        {
+            <h2> New Enrollment</h2>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.StudentName, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.StudentName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.StudentName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.StudentPhone, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.StudentPhone, new { @class = "form-control", type = "number" })
+                    @Html.ValidationMessageFor(x => x.StudentPhone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.StudentEmail, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.StudentEmail, new { @class = "form-control", type = "text" })
+                    @Html.ValidationMessageFor(x => x.StudentEmail, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.StudentPicture, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.StudentPicture, new { @class = "form-control", type = "file" })
+                    @Html.ValidationMessageFor(x => x.StudentPicture, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.EnrollmentDate, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.EnrollmentDate, new { @class = "form-control", type = "date" })
+                    @Html.ValidationMessageFor(x => x.EnrollmentDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Paymentdate, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Paymentdate, new { @class = "form-control", type = "date" })
+                    @Html.ValidationMessageFor(x => x.Paymentdate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.CourseFeePayment, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.CourseFeePayment, new { @class = "form-control", type = "number" })
+                    @Html.ValidationMessageFor(x => x.CourseFeePayment, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.CourseId, new { @class = "col-form-label col-form-label-sm col-2 text-end py-2" })
+                <div class="col-4">
+                    @Html.DropDownListFor(x => x.CourseId, new SelectList(ViewBag.Courses, "CourseId", "CourseName"), "Select one", new { @class = "form-select form-select-sm" })
+                    @Html.ValidationMessageFor(x => x.CourseId, "", new { @class = "text-danger", style = "font-size:small" })
+                </div>
+            </div>
+
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+
+        }
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onSuccess() {
+            $("#frm").trigger("reset");
+        }
+    </script>
+
+
+}

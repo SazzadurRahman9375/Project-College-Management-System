@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+
+    <style>
+        body {
+            padding-top: 70px;
+        }
+
+        .main {
+            min-height: calc(100vh - 110px);
+        }
+    </style>
+    @RenderSection("Styles", false)
+
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md fixed-top justify-content-between bg-primary navbar-dark ">
+            @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Tutors", "Index", "Tutors", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Students", "Index", "Students", new { area = "" }, new { @class = "nav-link" })
+                </li>
+
+                <li class="nav-item">
+                    @Html.ActionLink("Courses", "Index", "Courses", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Enrollments", "index", "Enrollments", new { }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("CoursesStudents", "index", "CoursesStudents", new { }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Aggregates", "Index", "Aggregates", new { }, new { @class = "nav-link" })
+                </li>
+            </ul>
+
+
+            <ul class="navbar-nav ms-auto">
+                @if (Request.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        @Html.ActionLink("Logout", "Logout", "Account", new { }, new { @class = "nav-link" })
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        @Html.ActionLink("Register", "Register", "Account", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Login", "Login", "Account", new { }, new { @class = "nav-link" })
+                    </li>
+
+                }
+
+            </ul>
+
+
+
+
+        </nav>
+    </header>
+
+    <div class="container container-fluid body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+        @RenderSection("Scripts", false)
+    </div>
+
+</body>
+</html>

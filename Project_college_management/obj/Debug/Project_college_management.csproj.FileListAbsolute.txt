@@ -1,0 +1,813 @@
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sh\source\repos\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+C:\Users\LAB104-01\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+C:\Users\sh\OneDrive\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+F:\ASP.NET works\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.Migrations.ContextB.InitialCreate.resources
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.GenerateResource.cache
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+C:\Users\Fahad\Desktop\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.Migrations.ContextB.InitialCreate.resources
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.GenerateResource.cache
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CopyComplete
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+D:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.Migrations.ContextA.InitialCreate.resources
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll.config
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Project_college_management.pdb
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.exe.config
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csc.rsp
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.exe.config
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\csi.rsp
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Managed.Core.targets
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.AppContext.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Collections.Immutable.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Console.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Globalization.Calendars.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Http.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Net.Sockets.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Reflection.Metadata.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.ValueTuple.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XmlDocument.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.exe.config
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\vbc.rsp
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\roslyn\VBCSCompiler.exe.config
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Web.Infrastructure.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Owin.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Memory.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Mvc.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\X.PagedList.Web.Common.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\EntityFramework.SqlServer.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.Core.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.Owin.Security.Cookies.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.pdb
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Newtonsoft.Json.Bson.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Buffers.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Memory.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Net.Http.Formatting.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Numerics.Vectors.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Text.Encodings.Web.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Threading.Tasks.Extensions.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Http.Owin.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Razor.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Deployment.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Webpages.Razor.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Helpers.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\System.Web.Mvc.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.AssemblyReference.cache
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.Migrations.ContextA.InitialCreate.resources
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.Migrations.ContextB.InitialCreate.resources
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.GenerateResource.cache
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.csproj.CoreCompileInputs.cache
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.dll
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_college_management.pdb
+F:\03_02_2024\MyCollegeDbSolution\Project_college_management\obj\Debug\Project_.9794AF67.Up2Date

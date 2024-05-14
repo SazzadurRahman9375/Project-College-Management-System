@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Project_college_management.Models.Tutor>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+
+<h2>Tutors</h2>
+<div class="d-flex justify-content-end mb-1">
+    @Html.ActionLink("Create New", "Create", "Tutors", new { }, new { @class = "btn btn-primary btn-sm" })
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr style="vertical-align:middle;text-align:center">
+            <th></th>
+            <th>Tutor Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th></th>
+        </trstyle="vertical-align:middle;text-align:center">
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr style="vertical-align:middle;text-align:center">
+                <td><img src="~/Pictures/@t.TutorPicture" class="rounded-circle" style="width:40px ;height:40px" /></td>
+                <td>@t.TutorName</td>
+                <td>@t.TutorEmail</td>
+                <td>@t.TutorPhone</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Tutors", new { id = t.TutorId }, new { @class = "btn btn-primary btn-sm" })
+                    <button data-pk="@t.TutorId" class="btn btn-danger btn-sm del">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-end">
+
+    @Html.PagedListPager((IPagedList)Model, pg => Url.Action("Tutorstable", "Tutors", new { pg = pg }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions
+    {
+        UlElementClasses = new string[] { "pagination", "pagination-sm" },
+        LiElementClasses = new string[] { "page-item" },
+        PageClasses = new string[] { "page-link" },
+        DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+        DisplayLinkToNextPage = PagedListDisplayMode.Always
+    },
+    new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "placeholder" }))
+</div>
+

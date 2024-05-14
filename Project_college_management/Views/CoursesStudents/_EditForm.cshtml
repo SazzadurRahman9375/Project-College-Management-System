@@ -1,0 +1,96 @@
+﻿@model Project_college_management.ViewModels.Courses.CourseEditModel
+@using (Ajax.BeginForm("Edit",
+    "CoursesStudents", new { },
+    new AjaxOptions
+    {
+        HttpMethod = "POST",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "form-div",
+        OnSuccess = "onSuccess"
+    },
+    new { id = "frm", enctype = "multipart/form-data" }))
+{
+    <h3>Edit</h3>
+    @Html.HiddenFor(x=>x.CourseId)
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.CourseName, new { @class = "col-form-label col-2 text-end" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.CourseName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.CourseName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.CourseFee, new { @class = "col-form-label col-2 text-end" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.CourseFee, new { @class = "form-control", type = "number" })
+            @Html.ValidationMessageFor(x => x.CourseFee, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.DurationYear, new { @class = "col-form-label col-2 text-end" })
+        <div class="col-4">
+            @Html.TextBoxFor(x => x.DurationYear, new { @class = "form-control", type = "number" })
+            @Html.ValidationMessageFor(x => x.DurationYear, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+        @Html.LabelFor(x => x.TutorId, new { @class = "col-form-label col-form-label-sm col-2 text-end py-2" })
+        <div class="col-4">
+            @Html.DropDownListFor(x => x.TutorId, new SelectList(ViewBag.Tutors, "TutorId", "TutorName"), "Select one", new { @class = "form-select form-select-sm" })
+            @Html.ValidationMessageFor(x => x.TutorId, "", new { @class = "text-danger", style = "font-size:small" })
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-4 offset-2">
+            <div class="d-flex justify-content-between">
+                <h4>Students</h4>
+                <button class="btn btn-sm" type="submit" name="act" value="add" formnovalidate>+</button>
+            </div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Student Id</th>
+                        <th>Enrollment date</th>
+                        <th>Payment date</th>
+                        <th>CourseFee Payment</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (var i = 0; i < Model.Enrollments.Count; i++)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DropDownListFor(x => Model.Enrollments[i].StudentId, new SelectList(ViewBag.Students, "StudentId", "StudentName"), "Select one", new { @class = "form-select form-select-sm" })
+                                @Html.ValidationMessageFor(x => Model.Enrollments[i].StudentId, "", new { @class = "text-danger", style = "font-size:small" })
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(x => Model.Enrollments[i].EnrollmentDate, new { @class = "form-control", type = "date", @Value = Model.Enrollments[i].EnrollmentDate.ToString("yyyy-MM-dd") })
+                                @Html.ValidationMessageFor(x => Model.Enrollments[i].EnrollmentDate, "", new { @class = "text-danger" })
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(x => Model.Enrollments[i].Paymentdate, new { @class = "form-control", type = "date", @Value = Model.Enrollments[i].Paymentdate.ToString("yyyy-MM-dd") })
+                                @Html.ValidationMessageFor(x => Model.Enrollments[i].Paymentdate, "", new { @class = "text-danger" })
+                            </td>
+                            <td>
+                                @Html.TextBoxFor(x => Model.Enrollments[i].CourseFeePayment, new { @class = "form-control", type = "number" })
+                                @Html.ValidationMessageFor(x => Model.Enrollments[i].CourseFeePayment, "", new { @class = "text-danger" })
+                            </td>
+
+
+                            <td>
+                                <button name="act" value="remove_@i" type="submit" class="btn btn-danger btn-sm" formnovalidate>Remove</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="form-group row mb-1">
+
+        <div class="col-4 offset-2">
+            <button type="submit" name="act" value="update" class="btn btn-primary">Update</button>
+        </div>
+    </div>
+}
+

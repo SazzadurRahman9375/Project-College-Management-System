@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+
+<div class="row">
+    <div class="col-12">
+
+        <div id="form-div">
+            @Html.Action("CreateForm");
+
+        </div>
+    </div>
+</div>
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+}
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function onSuccess() {
+
+        }
+    </script>
+
+}

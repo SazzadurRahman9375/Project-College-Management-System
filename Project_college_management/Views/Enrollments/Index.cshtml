@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Project_college_management.Models.Enrollment>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<h2>Student Enrollment</h2>
+<div class="d-flex justify-content-end mb-1">
+    @Html.ActionLink("Create New", "Create", "Enrollments", new { }, new { @class = "btn btn-primary btn-sm" })
+</div>
+<table class="table table-bordered">
+    <thead class="table-primary">
+        <tr>
+            <th></th>
+            <th></th>
+            <th>Student Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Enrollment Date</th>
+            <th>Course payment date</th>
+            <th>Initial Payment</th>
+            <th></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var t  in Model)
+        {
+            <tr style="vertical-align:middle">
+                <td>
+                    <img src="~/Pictures/@t.Student.StudentPicture" class="rounded-circle" style="width:40px" />
+                </td>
+                <td>@t.Student.StudentPicture</td>
+                <td>@t.Student.StudentName</td>
+                <td>@t.Student.StudentEmail</td>
+                <td>@t.Student.StudentPhone</td>
+                <td>@t.EnrollmentDate.ToString("yyyy-MM-dd")</td>
+                <td>@t.Paymentdate.ToString("yyyy-MM-dd")</td>
+                <td>@t.CourseFeePayment</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="7">
+                    <table class="table table-bordered">
+                        <thead class="table-secondary">
+                            <tr>
+                                <th>Course Name</th>
+                                <th>Duration Year</th>
+                                <th>Course Fee</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach(var c  in Model)
+                {
+                    <tr>
+                        <td>@c.Course.CourseName</td>
+                        <td>@c.Course.DurationYear</td>
+                        <td>@c.Course.CourseFee</td>
+                    </tr>
+                }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-end">
+
+    @Html.PagedListPager((IPagedList)Model, pg => Url.Action("Index", "Enrollments", new { pg = pg }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions
+    {
+        UlElementClasses = new string[] { "pagination", "pagination-sm" },
+        LiElementClasses = new string[] { "page-item" },
+        PageClasses = new string[] { "page-link" },
+        DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+        DisplayLinkToNextPage = PagedListDisplayMode.Always
+    },
+    new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "placeholder" }))
+</div>
+
+
+
